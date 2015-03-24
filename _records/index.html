@@ -6,7 +6,7 @@ collection: dataandrecords
 <div class="home">
 
   {% for c in site.collections.records.docs %}
-    <h3><a href="{{c.url}}">{{c.title | titleize}}</a></h3>
+    <h3><a href="{{site.baseurl}}{{c.url}}">{{c.title | titleize}}</a></h3>
   {% endfor %}
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
