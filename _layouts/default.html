@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+  <!--  {% include footer.html %} -->
+  <script>
+
+    disqus_shortname = 'chcspolicy';
+    jQuery(document).ready(function() {
+      jQuery("p").inlineDisqussions();
+    });
+  </script>
+  </body>
+
+</html>

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+<dl>
+  <dt>Status</dt>
+  <dd>{{ page.status }}</dd>
+  <dt>Owner</dt>
+  <dd>{{page.owner}}</dd>
+  <dt>Adopted</dt>
+  <dd>{{page.adopted}}</dd>
+  <dt>History</dt>
+  <dd>{{page.history}}</dd>
+</dl>
+
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>

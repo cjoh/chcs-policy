@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+<h2>Work</h2>
+<ul>
+  <li>Next Meeting: 4/16/2015, 7pm, CHCS</li>
+  <li>Prior Agendas and Minutes</li>
+</ul>
+
+<h2>Current Policy</h2>
+  {% for c in site.collections %}
+    <h3><a href="{{c[0]}}">{{c[1].label | capitalize}}</a></h3>
+  {% endfor %}
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

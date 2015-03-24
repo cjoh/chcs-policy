@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% for c in site.collections %}
+    <h2><a href="{{c[0]}}">{{c[1].label | capitalize}}</a></h2>
+  {% endfor %}
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
