@@ -54,15 +54,18 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 
 ### March
 * FCS Budget Report
-* Lottery
+* Enrollment Lottery
+
 ### April
 * Georgia Milestones: April 24th
 * Budget Review
 * Learnapalooza Kickoff
 * Earth Day
 * FCS Budget Report
+* E-Rate Proposal Due 4/16
 
 ### May
+
 * Mayday!
 * Board/Teacher/Staff Thank You
 * Budget Report
