@@ -9,7 +9,7 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 ## Agenda Items
 
 ### Minutes and Agenda Approval
-* Approval of Minutes from 3/3 Executive * Session (consent)
+* Approval of Minutes from 3/3 Executive Session (consent)
 * Approval of Minutes from 3/5 Executive Session (consent)
 * Approval of Minutes from 3/14 Board Meeting (consent)
 * Approval of Agenda
