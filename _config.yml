@@ -23,3 +23,5 @@ collections:
   records:
     output: true
     label: Data
+  students:
+    output: true
