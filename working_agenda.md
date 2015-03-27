@@ -30,6 +30,7 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 9. Policy
 10. Board Survey
 11. Video Discussion
+12. 2015/16 Calendar Review
 
 ### Task Forces/Teams
 1. Budget/Finance
@@ -63,6 +64,7 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 * Earth Day
 * FCS Budget Report
 * E-Rate Proposal Due 4/16
+* 2015/16 Calendar Review
 
 ### May
 
