@@ -11,9 +11,13 @@ category: board
 # Teaching/ School year Employees Only
 
 ### SICK/PERSONAL/BEREAVEMENT LEAVE:
+
 Definition: Sick, personal and bereavement leave will be combined into a single category of time off to be used for the following circumstances:
+
 * Sick Leave:  Time which can be used for an employee’s illness that would impact the ability of the employee to carry out his/her responsibilities or pose a health threat to school staff and scholars, or in the case of an a dependent’s or member of household’s illness.
+
 * Personal Leave: Time which can be used for one-day planned events, observance of religious holidays, or personal/family emergencies, and not as vacation time during the school year.  Personal leave may not be used immediately before or following a holiday weekend or other school break or during State of Georgia Assessment and Testing cycles except in the case of an emergency.  The use of this time must be requested and approved prior to the time being taken.
+
 * Bereavement Leave:  Time which can be used when a death occurs in an employee’s immediate family or member of household.  Immediate family members are defined as an employee’s spouse, parents, stepparents, siblings, children, stepchildren, grandparent, father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, aunt, uncle, first cousin, or grandchild.  Time may be used to travel to attend the funeral or make funeral arrangements.  This time off will be considered by the employee's supervisor on a case-by-case basis. The supervisor may request a copy of the obituary.
 
 Banked Sick/Personal/Bereavement days may only be used for extended bereavement if all current sick/personal/bereavement time is exhausted.  
@@ -22,17 +26,22 @@ Banked Sick/Personal/Bereavement days may only be used for extended bereavement 
 
 Full-Time employees, defined as employees hired to work 32 or more hours per week, are eligible for 10 days of sick/personal/bereavement leave per year.  Part-time teachers who are hired to work 20 hours or more are eligible for 5 paid days of sick/personal/bereavement.  Other part-time employees are not eligible for paid days of sick/personal/bereavement.  
 
-*Use of Sick/Personal/Bereavement:*  Sick/Personal/Bereavement leave must be used in ½ or full day increments only and may require a note.  Sick/personal/bereavement leave is not eligible for pay out upon termination or resignation.
+**Use of Sick/Personal/Bereavement:**  Sick/Personal/Bereavement leave must be used in ½ or full day increments only and may require a note.  Sick/personal/bereavement leave is not eligible for pay out upon termination or resignation.
 
-*Banked time:* At the end of each school year, unused sick/personal/bereavement leave may be paid out using a network scale OR banked to use as extended sick or bereavement leave at the discretion of the employee.  The use of banked days is meant to provide flexibility in times of hardship or extenuating circumstance.  The use of banked days will only be approved after all of the current year’s sick/personal/bereavement leave has been used AND must be approved in advance by the individual’s supervisor or the employee will be required to provide documentation of the extenuating circumstance. Banked leave may be accrued up to a maximum of 10 days. Banked days will not be paid out at the time of termination of employment or resignation.
+**Banked time:** At the end of each school year, unused sick/personal/bereavement leave may be paid out using a network scale OR banked to use as extended sick or bereavement leave at the discretion of the employee.  The use of banked days is meant to provide flexibility in times of hardship or extenuating circumstance.  The use of banked days will only be approved after all of the current year’s sick/personal/bereavement leave has been used AND must be approved in advance by the individual’s supervisor or the employee will be required to provide documentation of the extenuating circumstance. Banked leave may be accrued up to a maximum of 10 days. Banked days will not be paid out at the time of termination of employment or resignation.
 
 Additional unpaid time off may be granted on a case by case basis depending on the circumstances and the discretion of supervisor and principal  Teachers/School-Year Only staff are not eligible for vacation.
 
 # YEAR-ROUND EMPLOYEES
-*SICK/PERSONAL/BEREAVEMENT LEAVE:*  [Same as above with the exception time S/P/B will be based on fiscal year, personal days may be used around holidays and testing cycles and may make up partial days off if requested in advance]
+
+**SICK/PERSONAL/BEREAVEMENT LEAVE:**  [Same as above with the exception time S/P/B will be based on fiscal year, personal days may be used around holidays and testing cycles and may make up partial days off if requested in advance]
+
 Definition: Sick, personal and bereavement leave will be combined into a single category of time off to be used for the following circumstances:
+
 * Sick Leave:  Time which can be used for an employee’s illness that would impact the ability of the employee to carry out his/her responsibilities or pose a health threat to school staff and scholars, or in the case of a dependent’s or member of household’s illness.
+
 * Personal Leave: Time which can be used for one-day planned events, observance of religious holidays, or personal/family emergencies, and not as vacation time during the school year.  The use of this time must be requested and approved prior to the time being taken.  
+
 * Bereavement Leave:  Time which can be used when a death occurs in an employee’s immediate family or member of household.  Immediate family members are defined as an employee’s spouse, parents, stepparents, siblings, children, stepchildren, grandparent, father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, aunt, uncle, first cousin, or grandchild.  Time may be used to travel to attend the funeral or make funeral arrangements.  This time off will be considered by the employee's supervisor on a case-by-case basis. The supervisor may request a copy of the obituary.
 
 Banked Sick/Personal/Bereavement days may only be used for extended bereavement if all current sick/personal/bereavement time is exhausted.  
@@ -47,6 +56,7 @@ Full-Time employees, defined as employees hired to work 32 hours or more per wee
 Additional unpaid time off may be granted on a case by case basis depending on the circumstances and the discretion of supervisor and principal.
 
 # YEAR-ROUND EMPLOYEES
+
 ## VACATION LEAVE:
 
 *Definition:* Vacation leave can be used to afford an employee the opportunity for rest, recreation, and personal activities.
@@ -61,11 +71,15 @@ Full-Time employees, defined as employees hired to work 32 hours or more per wee
 *Payout of Unused Vacation Days:* Employees who resign within probationary period, do not provide two weeks’ notice of resignation or are terminated will not be eligible for payout for unused vacation.  Vacation pay out for other employees may be determined at the discretion of the School Model Leader and supervisor. Vacation days will not be paid out at the end of the fiscal year and are not eligible to be banked.
 
 # ALL EMPLOYEES
+
 ## SCHOOL BREAKS:
+
 *Definition:*  School breaks are defined as pre-determined periods in which school operations are closed and employees are not required to report to work.
+
 Full-time employees, defined as employees hired to work 32 or more hours per week, shall be paid for school breaks and schools break days are not to be deducted from sick/personal/bereavement or vacation leave.
 
 ## Child Care Leave
+
 Requests for unpaid leave for pregnancy, child birth, adoption or other child care related circumstances may be requested without pay for up to six (6) weeks or the remainder of the School year, whichever is shorter.  With the approval of the Principal or his/her designee accumulated personal leave may be used in conjunction with child care leave if the employee so requests.  Health insurance will not be paid by the Board during the term of such leaves.  Employees may elect to pay the cost of health insurance during the period of approved leave.
 
 ## Medical Leave of Absence
@@ -114,6 +128,7 @@ If an employee fails to provide a required fitness for duty certificate from his
 No employee may not engage in other employment (including self-employment) while on FMLA leave (or on a leave of absence of any kind.)  A leave must be used only for the purpose requested.  If an employee uses a leave of absence for any other purpose, including for travel/vacation, the employee will be treated as if he/she voluntary resigned from his/her position.
 
 ## Serious and Communicable Diseases Policy
+
 It is the policy of the School that employees with infectious, long-term, life-threatening, or other serious diseases or illnesses may work as long as they are able to perform the duties of their job without undue risk to their own health or that of scholars other employees, or members of the public.
 
 An employee who is diagnosed as having an infectious, long-term, life-threatening, or other serious disease or illness is encouraged to notify the Principal or his/her designee of the condition as soon as possible and should provide the Principal or his/her designee with any pertinent medical information needed to make decisions regarding job assignments, ability to continue working, or ability to return to work.
